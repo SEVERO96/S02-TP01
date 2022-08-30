@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <bookID>1</bookID>
+    <title>Harry Potter and the Half-Blood Prince (Harry Potter  #6)</title>
+    <authors>J.K. Rowling/Mary GrandPré</authors>
+    <average_rating>4.57</average_rating>
+    <isbn>439785960</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>652</num_pages>
+    <ratings_count>2095690</ratings_count>
+    <text_reviews_count>27591</text_reviews_count>
+    <publication_date>9/16/2006</publication_date>
+    <publisher>Scholastic Inc.</publisher>
+  </row>
+  <row>
+    <bookID>2</bookID>
+    <title>Harry Potter and the Order of the Phoenix (Harry Potter  #5)</title>
+    <authors>J.K. Rowling/Mary GrandPré</authors>
+    <average_rating>4.49</average_rating>
+    <isbn>439358078</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>870</num_pages>
+    <ratings_count>2153167</ratings_count>
+    <text_reviews_count>29221</text_reviews_count>
+    <publication_date>9/1/2004</publication_date>
+    <publisher>Scholastic Inc.</publisher>
+  </row>
+  <row>
+    <bookID>4</bookID>
+    <title>Harry Potter and the Chamber of Secrets (Harry Potter  #2)</title>
+    <authors>J.K. Rowling</authors>
+    <average_rating>4.42</average_rating>
+    <isbn>439554896</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>352</num_pages>
+    <ratings_count>6333</ratings_count>
+    <text_reviews_count>244</text_reviews_count>
+    <publication_date>11/1/2003</publication_date>
+    <publisher>Scholastic</publisher>
+  </row>
+  <row>
+    <bookID>5</bookID>
+    <title>Harry Potter and the Prisoner of Azkaban (Harry Potter  #3)</title>
+    <authors>J.K. Rowling/Mary GrandPré</authors>
+    <average_rating>4.56</average_rating>
+    <isbn>043965548X</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>435</num_pages>
+    <ratings_count>2339585</ratings_count>
+    <text_reviews_count>36325</text_reviews_count>
+    <publication_date>5/1/2004</publication_date>
+    <publisher>Scholastic Inc.</publisher>
+  </row>
+  <row>
+    <bookID>8</bookID>
+    <title>Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5)</title>
+    <authors>J.K. Rowling/Mary GrandPré</authors>
+    <average_rating>4.78</average_rating>
+    <isbn>439682584</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>2690</num_pages>
+    <ratings_count>41428</ratings_count>
+    <text_reviews_count>164</text_reviews_count>
+    <publication_date>9/13/2004</publication_date>
+    <publisher>Scholastic</publisher>
+  </row>
+  <row>
+    <bookID>9</bookID>
+    <title>Unauthorized Harry Potter Book Seven News: &quot;Half-Blood Prince&quot; Analysis and Speculation</title>
+    <authors>W. Frederick Zimmerman</authors>
+    <average_rating>3.74</average_rating>
+    <isbn>976540606</isbn>
+    <isbn13>9.78098E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>152</num_pages>
+    <ratings_count>19</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+    <publication_date>4/26/2005</publication_date>
+    <publisher>Nimble Books</publisher>
+  </row>
+  <row>
+    <bookID>10</bookID>
+    <title>Harry Potter Collection (Harry Potter  #1-6)</title>
+    <authors>J.K. Rowling</authors>
+    <average_rating>4.73</average_rating>
+    <isbn>439827604</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>3342</num_pages>
+    <ratings_count>28242</ratings_count>
+    <text_reviews_count>808</text_reviews_count>
+    <publication_date>9/12/2005</publication_date>
+    <publisher>Scholastic</publisher>
+  </row>
+  <row>
+    <bookID>12</bookID>
+    <title>The Ultimate Hitchhiker&apos;s Guide: Five Complete Novels and One Story (Hitchhiker&apos;s Guide to the Galaxy  #1-5)</title>
+    <authors>Douglas Adams</authors>
+    <average_rating>4.38</average_rating>
+    <isbn>517226952</isbn>
+    <isbn13>9.78052E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>815</num_pages>
+    <ratings_count>3628</ratings_count>
+    <text_reviews_count>254</text_reviews_count>
+    <publication_date>11/1/2005</publication_date>
+    <publisher>Gramercy Books</publisher>
+  </row>
+  <row>
+    <bookID>13</bookID>
+    <title>The Ultimate Hitchhiker&apos;s Guide to the Galaxy (Hitchhiker&apos;s Guide to the Galaxy  #1-5)</title>
+    <authors>Douglas Adams</authors>
+    <average_rating>4.38</average_rating>
+    <isbn>345453743</isbn>
+    <isbn13>9.78035E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>815</num_pages>
+    <ratings_count>249558</ratings_count>
+    <text_reviews_count>4080</text_reviews_count>
+    <publication_date>4/30/2002</publication_date>
+    <publisher>Del Rey Books</publisher>
+  </row>
+  <row>
+    <bookID>14</bookID>
+    <title>The Hitchhiker&apos;s Guide to the Galaxy (Hitchhiker&apos;s Guide to the Galaxy  #1)</title>
+    <authors>Douglas Adams</authors>
+    <average_rating>4.22</average_rating>
+    <isbn>1400052920</isbn>
+    <isbn13>9.7814E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>215</num_pages>
+    <ratings_count>4930</ratings_count>
+    <text_reviews_count>460</text_reviews_count>
+    <publication_date>8/3/2004</publication_date>
+    <publisher>Crown</publisher>
+  </row>
+  <row>
+    <bookID>16</bookID>
+    <title>The Hitchhiker&apos;s Guide to the Galaxy (Hitchhiker&apos;s Guide to the Galaxy  #1)</title>
+    <authors>Douglas Adams/Stephen Fry</authors>
+    <average_rating>4.22</average_rating>
+    <isbn>739322206</isbn>
+    <isbn13>9.78074E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>6</num_pages>
+    <ratings_count>1266</ratings_count>
+    <text_reviews_count>253</text_reviews_count>
+    <publication_date>3/23/2005</publication_date>
+    <publisher>Random House Audio</publisher>
+  </row>
+  <row>
+    <bookID>18</bookID>
+    <title>The Ultimate Hitchhiker&apos;s Guide (Hitchhiker&apos;s Guide to the Galaxy  #1-5)</title>
+    <authors>Douglas Adams</authors>
+    <average_rating>4.38</average_rating>
+    <isbn>517149257</isbn>
+    <isbn13>9.78052E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>815</num_pages>
+    <ratings_count>2877</ratings_count>
+    <text_reviews_count>195</text_reviews_count>
+    <publication_date>1/17/1996</publication_date>
+    <publisher>Wings Books</publisher>
+  </row>
+  <row>
+    <bookID>21</bookID>
+    <title>A Short History of Nearly Everything</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>4.21</average_rating>
+    <isbn>076790818X</isbn>
+    <isbn13>9.78077E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>544</num_pages>
+    <ratings_count>248558</ratings_count>
+    <text_reviews_count>9396</text_reviews_count>
+    <publication_date>9/14/2004</publication_date>
+    <publisher>Broadway Books</publisher>
+  </row>
+  <row>
+    <bookID>22</bookID>
+    <title>Bill Bryson&apos;s African Diary</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>3.44</average_rating>
+    <isbn>767915062</isbn>
+    <isbn13>9.78077E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>55</num_pages>
+    <ratings_count>7270</ratings_count>
+    <text_reviews_count>499</text_reviews_count>
+    <publication_date>12/3/2002</publication_date>
+    <publisher>Broadway Books</publisher>
+  </row>
+  <row>
+    <bookID>23</bookID>
+    <title>Bryson&apos;s Dictionary of Troublesome Words: A Writer&apos;s Guide to Getting It Right</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>3.87</average_rating>
+    <isbn>767910435</isbn>
+    <isbn13>9.78077E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>256</num_pages>
+    <ratings_count>2088</ratings_count>
+    <text_reviews_count>131</text_reviews_count>
+    <publication_date>9/14/2004</publication_date>
+    <publisher>Broadway Books</publisher>
+  </row>
+  <row>
+    <bookID>24</bookID>
+    <title>In a Sunburned Country</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>4.07</average_rating>
+    <isbn>767903862</isbn>
+    <isbn13>9.78077E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>335</num_pages>
+    <ratings_count>72451</ratings_count>
+    <text_reviews_count>4245</text_reviews_count>
+    <publication_date>5/15/2001</publication_date>
+    <publisher>Broadway Books</publisher>
+  </row>
+  <row>
+    <bookID>25</bookID>
+    <title>I&apos;m a Stranger Here Myself: Notes on Returning to America After Twenty Years Away</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>3.9</average_rating>
+    <isbn>076790382X</isbn>
+    <isbn13>9.78077E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>304</num_pages>
+    <ratings_count>49240</ratings_count>
+    <text_reviews_count>2211</text_reviews_count>
+    <publication_date>6/28/2000</publication_date>
+    <publisher>Broadway Books</publisher>
+  </row>
+  <row>
+    <bookID>26</bookID>
+    <title>The Lost Continent: Travels in Small Town America</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>3.83</average_rating>
+    <isbn>60920084</isbn>
+    <isbn13>9.78006E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>299</num_pages>
+    <ratings_count>45712</ratings_count>
+    <text_reviews_count>2257</text_reviews_count>
+    <publication_date>8/28/1990</publication_date>
+    <publisher>William Morrow Paperbacks</publisher>
+  </row>
+  <row>
+    <bookID>27</bookID>
+    <title>Neither Here nor There: Travels in Europe</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>3.86</average_rating>
+    <isbn>380713802</isbn>
+    <isbn13>9.78038E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>254</num_pages>
+    <ratings_count>48701</ratings_count>
+    <text_reviews_count>2238</text_reviews_count>
+    <publication_date>3/28/1993</publication_date>
+    <publisher>William Morrow Paperbacks</publisher>
+  </row>
+  <row>
+    <bookID>28</bookID>
+    <title>Notes from a Small Island</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>3.91</average_rating>
+    <isbn>380727501</isbn>
+    <isbn13>9.78038E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>324</num_pages>
+    <ratings_count>80609</ratings_count>
+    <text_reviews_count>3301</text_reviews_count>
+    <publication_date>5/28/1997</publication_date>
+    <publisher>William Morrow Paperbacks</publisher>
+  </row>
+  <row>
+    <bookID>29</bookID>
+    <title>The Mother Tongue: English and How It Got That Way</title>
+    <authors>Bill Bryson</authors>
+    <average_rating>3.93</average_rating>
+    <isbn>380715430</isbn>
+    <isbn13>9.78038E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>270</num_pages>
+    <ratings_count>28489</ratings_count>
+    <text_reviews_count>2085</text_reviews_count>
+    <publication_date>9/28/1991</publication_date>
+    <publisher>William Morrow Paperbacks</publisher>
+  </row>
+  <row>
+    <bookID>30</bookID>
+    <title>J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings</title>
+    <authors>J.R.R. Tolkien</authors>
+    <average_rating>4.59</average_rating>
+    <isbn>345538374</isbn>
+    <isbn13>9.78035E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>1728</num_pages>
+    <ratings_count>101233</ratings_count>
+    <text_reviews_count>1550</text_reviews_count>
+    <publication_date>9/25/2012</publication_date>
+    <publisher>Ballantine Books</publisher>
+  </row>
+  <row>
+    <bookID>31</bookID>
+    <title>The Lord of the Rings (The Lord of the Rings  #1-3)</title>
+    <authors>J.R.R. Tolkien</authors>
+    <average_rating>4.5</average_rating>
+    <isbn>618517650</isbn>
+    <isbn13>9.78062E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>1184</num_pages>
+    <ratings_count>1710</ratings_count>
+    <text_reviews_count>91</text_reviews_count>
+    <publication_date>10/21/2004</publication_date>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+  </row>
+  <row>
+    <bookID>34</bookID>
+    <title>The Fellowship of the Ring (The Lord of the Rings  #1)</title>
+    <authors>J.R.R. Tolkien</authors>
+    <average_rating>4.36</average_rating>
+    <isbn>618346252</isbn>
+    <isbn13>9.78062E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>398</num_pages>
+    <ratings_count>2128944</ratings_count>
+    <text_reviews_count>13670</text_reviews_count>
+    <publication_date>9/5/2003</publication_date>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+  </row>
+  <row>
+    <bookID>35</bookID>
+    <title>The Lord of the Rings (The Lord of the Rings  #1-3)</title>
+    <authors>J.R.R. Tolkien/Alan  Lee</authors>
+    <average_rating>4.5</average_rating>
+    <isbn>618260587</isbn>
+    <isbn13>9.78062E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>1216</num_pages>
+    <ratings_count>1618</ratings_count>
+    <text_reviews_count>140</text_reviews_count>
+    <publication_date>10/1/2002</publication_date>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+  </row>
+  <row>
+    <bookID>36</bookID>
+    <title>The Lord of the Rings: Weapons and Warfare</title>
+    <authors>Chris   Smith/Christopher  Lee/Richard Taylor</authors>
+    <average_rating>4.53</average_rating>
+    <isbn>618391002</isbn>
+    <isbn13>9.78062E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>218</num_pages>
+    <ratings_count>19822</ratings_count>
+    <text_reviews_count>46</text_reviews_count>
+    <publication_date>11/5/2003</publication_date>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+  </row>
+  <row>
+    <bookID>37</bookID>
+    <title>The Lord of the Rings: Complete Visual Companion</title>
+    <authors>Jude Fisher</authors>
+    <average_rating>4.5</average_rating>
+    <isbn>618510826</isbn>
+    <isbn13>9.78062E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>224</num_pages>
+    <ratings_count>359</ratings_count>
+    <text_reviews_count>6</text_reviews_count>
+    <publication_date>11/15/2004</publication_date>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+  </row>
+  <row>
+    <bookID>45</bookID>
+    <title>Agile Web Development with Rails: A Pragmatic Guide</title>
+    <authors>Dave Thomas/David Heinemeier Hansson/Leon Breedt/Mike Clark/Thomas  Fuchs/Andreas  Schwarz</authors>
+    <average_rating>3.84</average_rating>
+    <isbn>097669400X</isbn>
+    <isbn13>9.78098E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>558</num_pages>
+    <ratings_count>1430</ratings_count>
+    <text_reviews_count>59</text_reviews_count>
+    <publication_date>7/28/2005</publication_date>
+    <publisher>Pragmatic Bookshelf</publisher>
+  </row>
+  <row>
+    <bookID>50</bookID>
+    <title>Hatchet (Brian&apos;s Saga  #1)</title>
+    <authors>Gary Paulsen</authors>
+    <average_rating>3.72</average_rating>
+    <isbn>689840926</isbn>
+    <isbn13>9.78069E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>208</num_pages>
+    <ratings_count>270244</ratings_count>
+    <text_reviews_count>12017</text_reviews_count>
+    <publication_date>4/1/2000</publication_date>
+    <publisher>Atheneum Books for Young Readers: Richard Jackson Books</publisher>
+  </row>
+  <row>
+    <bookID>51</bookID>
+    <title>Hatchet: A Guide for Using &quot;Hatchet&quot; in the Classroom</title>
+    <authors>Donna Ickes/Edward Sciranko/Keith Vasconcelles</authors>
+    <average_rating>4</average_rating>
+    <isbn>1557344493</isbn>
+    <isbn13>9.78156E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>48</num_pages>
+    <ratings_count>36</ratings_count>
+    <text_reviews_count>2</text_reviews_count>
+    <publication_date>8/28/1994</publication_date>
+    <publisher>Teacher Created Resources</publisher>
+  </row>
+  <row>
+    <bookID>53</bookID>
+    <title>Guts: The True Stories behind Hatchet and the Brian Books</title>
+    <authors>Gary Paulsen</authors>
+    <average_rating>3.88</average_rating>
+    <isbn>385326505</isbn>
+    <isbn13>9.78039E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>144</num_pages>
+    <ratings_count>2067</ratings_count>
+    <text_reviews_count>334</text_reviews_count>
+    <publication_date>1/23/2001</publication_date>
+    <publisher>Delacorte Press</publisher>
+  </row>
+  <row>
+    <bookID>54</bookID>
+    <title>Molly Hatchet - 5 of the Best</title>
+    <authors>Molly Hatchet</authors>
+    <average_rating>4.33</average_rating>
+    <isbn>1575606240</isbn>
+    <isbn13>9.78158E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>56</num_pages>
+    <ratings_count>6</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+    <publication_date>6/10/2003</publication_date>
+    <publisher>Cherry Lane Music Company</publisher>
+  </row>
+  <row>
+    <bookID>55</bookID>
+    <title>Hatchet Jobs: Writings on Contemporary Fiction</title>
+    <authors>Dale Peck</authors>
+    <average_rating>3.45</average_rating>
+    <isbn>1595580271</isbn>
+    <isbn13>9.7816E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>228</num_pages>
+    <ratings_count>99</ratings_count>
+    <text_reviews_count>16</text_reviews_count>
+    <publication_date>11/1/2005</publication_date>
+    <publisher>The New Press</publisher>
+  </row>
+  <row>
+    <bookID>57</bookID>
+    <title>A Changeling for All Seasons (Changeling Seasons #1)</title>
+    <authors>Angela Knight/Sahara Kelly/Judy Mays/Marteeka Karland/Kate Douglas/Shelby Morgen/Lacey Savage/Kate Hill/Willa Okati</authors>
+    <average_rating>3.76</average_rating>
+    <isbn>1595962808</isbn>
+    <isbn13>9.7816E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>304</num_pages>
+    <ratings_count>167</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+    <publication_date>11/1/2005</publication_date>
+    <publisher>Changeling Press</publisher>
+  </row>
+  <row>
+    <bookID>58</bookID>
+    <title>Changeling (Changeling  #1)</title>
+    <authors>Delia Sherman</authors>
+    <average_rating>3.6</average_rating>
+    <isbn>670059676</isbn>
+    <isbn13>9.78067E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>256</num_pages>
+    <ratings_count>978</ratings_count>
+    <text_reviews_count>111</text_reviews_count>
+    <publication_date>8/17/2006</publication_date>
+    <publisher>Viking Juvenile</publisher>
+  </row>
+  <row>
+    <bookID>59</bookID>
+    <title>The Changeling Sea</title>
+    <authors>Patricia A. McKillip</authors>
+    <average_rating>4.06</average_rating>
+    <isbn>141312629</isbn>
+    <isbn13>9.78014E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>137</num_pages>
+    <ratings_count>4454</ratings_count>
+    <text_reviews_count>302</text_reviews_count>
+    <publication_date>4/14/2003</publication_date>
+    <publisher>Firebird</publisher>
+  </row>
+  <row>
+    <bookID>61</bookID>
+    <title>The Changeling</title>
+    <authors>Zilpha Keatley Snyder</authors>
+    <average_rating>4.17</average_rating>
+    <isbn>595321801</isbn>
+    <isbn13>9.7806E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>228</num_pages>
+    <ratings_count>1176</ratings_count>
+    <text_reviews_count>96</text_reviews_count>
+    <publication_date>6/8/2004</publication_date>
+    <publisher>iUniverse</publisher>
+  </row>
+  <row>
+    <bookID>63</bookID>
+    <title>The Changeling</title>
+    <authors>Kate Horsley</authors>
+    <average_rating>3.55</average_rating>
+    <isbn>1590301943</isbn>
+    <isbn13>9.78159E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>339</num_pages>
+    <ratings_count>301</ratings_count>
+    <text_reviews_count>43</text_reviews_count>
+    <publication_date>4/12/2005</publication_date>
+    <publisher>Shambhala</publisher>
+  </row>
+  <row>
+    <bookID>66</bookID>
+    <title>The Changeling (Daughters of England  #15)</title>
+    <authors>Philippa Carr</authors>
+    <average_rating>3.98</average_rating>
+    <isbn>449146979</isbn>
+    <isbn13>9.78045E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>369</num_pages>
+    <ratings_count>345</ratings_count>
+    <text_reviews_count>12</text_reviews_count>
+    <publication_date>8/28/1990</publication_date>
+    <publisher>Ivy Books</publisher>
+  </row>
+  <row>
+    <bookID>67</bookID>
+    <title>The Known World</title>
+    <authors>Edward P. Jones</authors>
+    <average_rating>3.83</average_rating>
+    <isbn>61159174</isbn>
+    <isbn13>9.78006E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>388</num_pages>
+    <ratings_count>29686</ratings_count>
+    <text_reviews_count>2626</text_reviews_count>
+    <publication_date>8/29/2006</publication_date>
+    <publisher>Amistad</publisher>
+  </row>
+  <row>
+    <bookID>68</bookID>
+    <title>The Known World</title>
+    <authors>Edward P. Jones/Kevin R. Free</authors>
+    <average_rating>3.83</average_rating>
+    <isbn>006076273X</isbn>
+    <isbn13>9.78006E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>14</num_pages>
+    <ratings_count>55</ratings_count>
+    <text_reviews_count>12</text_reviews_count>
+    <publication_date>6/15/2004</publication_date>
+    <publisher>HarperAudio</publisher>
+  </row>
+  <row>
+    <bookID>69</bookID>
+    <title>The Known World</title>
+    <authors>Edward P. Jones</authors>
+    <average_rating>3.83</average_rating>
+    <isbn>60749911</isbn>
+    <isbn13>9.78006E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>576</num_pages>
+    <ratings_count>22</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+    <publication_date>6/15/2004</publication_date>
+    <publisher>Harper</publisher>
+  </row>
+  <row>
+    <bookID>71</bookID>
+    <title>Traders  Guns &amp; Money: Knowns and Unknowns in the Dazzling World of Derivatives</title>
+    <authors>Satyajit Das</authors>
+    <average_rating>3.83</average_rating>
+    <isbn>273704745</isbn>
+    <isbn13>9.78027E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>334</num_pages>
+    <ratings_count>1456</ratings_count>
+    <text_reviews_count>82</text_reviews_count>
+    <publication_date>5/15/2006</publication_date>
+    <publisher>FT Press</publisher>
+  </row>
+  <row>
+    <bookID>72</bookID>
+    <title>Artesia: Adventures in the Known World</title>
+    <authors>Mark Smylie</authors>
+    <average_rating>4.13</average_rating>
+    <isbn>1932386106</isbn>
+    <isbn13>9.78193E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>352</num_pages>
+    <ratings_count>52</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+    <publication_date>12/14/2005</publication_date>
+    <publisher>Archaia</publisher>
+  </row>
+  <row>
+    <bookID>74</bookID>
+    <title>The John McPhee Reader (John McPhee Reader  #1)</title>
+    <authors>John McPhee/William Howarth</authors>
+    <average_rating>4.42</average_rating>
+    <isbn>374517193</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>416</num_pages>
+    <ratings_count>562</ratings_count>
+    <text_reviews_count>37</text_reviews_count>
+    <publication_date>6/1/1982</publication_date>
+    <publisher>Farrar  Straus and Giroux</publisher>
+  </row>
+  <row>
+    <bookID>75</bookID>
+    <title>Uncommon Carriers</title>
+    <authors>John McPhee</authors>
+    <average_rating>3.95</average_rating>
+    <isbn>374280398</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>248</num_pages>
+    <ratings_count>1630</ratings_count>
+    <text_reviews_count>203</text_reviews_count>
+    <publication_date>5/16/2006</publication_date>
+    <publisher>Farrar Straus Giroux</publisher>
+  </row>
+  <row>
+    <bookID>76</bookID>
+    <title>Heirs of General Practice</title>
+    <authors>John McPhee</authors>
+    <average_rating>4.17</average_rating>
+    <isbn>374519749</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>128</num_pages>
+    <ratings_count>268</ratings_count>
+    <text_reviews_count>22</text_reviews_count>
+    <publication_date>4/1/1986</publication_date>
+    <publisher>Farrar  Straus and Giroux</publisher>
+  </row>
+  <row>
+    <bookID>77</bookID>
+    <title>The Control of Nature</title>
+    <authors>John McPhee</authors>
+    <average_rating>4.24</average_rating>
+    <isbn>374522596</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>288</num_pages>
+    <ratings_count>3498</ratings_count>
+    <text_reviews_count>305</text_reviews_count>
+    <publication_date>9/1/1990</publication_date>
+    <publisher>Farrar  Straus and Giroux</publisher>
+  </row>
+  <row>
+    <bookID>78</bookID>
+    <title>Annals of the Former World</title>
+    <authors>John McPhee</authors>
+    <average_rating>4.34</average_rating>
+    <isbn>374518734</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>720</num_pages>
+    <ratings_count>3115</ratings_count>
+    <text_reviews_count>228</text_reviews_count>
+    <publication_date>1/6/1999</publication_date>
+    <publisher>Farrar  Straus and Giroux</publisher>
+  </row>
+  <row>
+    <bookID>79</bookID>
+    <title>Coming Into the Country</title>
+    <authors>John McPhee</authors>
+    <average_rating>4.22</average_rating>
+    <isbn>374522871</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>448</num_pages>
+    <ratings_count>5704</ratings_count>
+    <text_reviews_count>261</text_reviews_count>
+    <publication_date>4/1/1991</publication_date>
+    <publisher>Farrar  Straus and Giroux</publisher>
+  </row>
+  <row>
+    <bookID>80</bookID>
+    <title>La Place de la Concorde Suisse</title>
+    <authors>John McPhee</authors>
+    <average_rating>3.92</average_rating>
+    <isbn>374519323</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>fre</language_code>
+    <num_pages>160</num_pages>
+    <ratings_count>698</ratings_count>
+    <text_reviews_count>52</text_reviews_count>
+    <publication_date>4/1/1994</publication_date>
+    <publisher>Farrar  Straus and Giroux</publisher>
+  </row>
+  <row>
+    <bookID>81</bookID>
+    <title>Giving Good Weight</title>
+    <authors>John McPhee</authors>
+    <average_rating>4.23</average_rating>
+    <isbn>374516006</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>288</num_pages>
+    <ratings_count>542</ratings_count>
+    <text_reviews_count>36</text_reviews_count>
+    <publication_date>4/1/1994</publication_date>
+    <publisher>Farrar  Straus and Giroux</publisher>
+  </row>
+  <row>
+    <bookID>83</bookID>
+    <title>Rising from the Plains</title>
+    <authors>John McPhee</authors>
+    <average_rating>4.23</average_rating>
+    <isbn>374520658</isbn>
+    <isbn13>9.78037E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>208</num_pages>
+    <ratings_count>1341</ratings_count>
+    <text_reviews_count>98</text_reviews_count>
+    <publication_date>11/1/1987</publication_date>
+    <publisher>Farrar  Straus and Giroux</publisher>
+  </row>
+  <row>
+    <bookID>85</bookID>
+    <title>The Heidi Chronicles</title>
+    <authors>Wendy Wasserstein</authors>
+    <average_rating>3.75</average_rating>
+    <isbn>822205106</isbn>
+    <isbn13>9.78082E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>81</num_pages>
+    <ratings_count>1423</ratings_count>
+    <text_reviews_count>70</text_reviews_count>
+    <publication_date>3/1/2002</publication_date>
+    <publisher>Dramatists Play Service</publisher>
+  </row>
+  <row>
+    <bookID>86</bookID>
+    <title>The Heidi Chronicles: Uncommon Women and Others &amp; Isn&apos;t It Romantic</title>
+    <authors>Wendy Wasserstein</authors>
+    <average_rating>3.84</average_rating>
+    <isbn>679734996</isbn>
+    <isbn13>9.78068E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>249</num_pages>
+    <ratings_count>2766</ratings_count>
+    <text_reviews_count>64</text_reviews_count>
+    <publication_date>7/2/1991</publication_date>
+    <publisher>Vintage</publisher>
+  </row>
+  <row>
+    <bookID>89</bookID>
+    <title>Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening</title>
+    <authors>Heidi Hayes Jacobs</authors>
+    <average_rating>3.94</average_rating>
+    <isbn>1596670231</isbn>
+    <isbn13>9.7816E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>138</num_pages>
+    <ratings_count>31</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+    <publication_date>3/29/2006</publication_date>
+    <publisher>Routledge</publisher>
+  </row>
+  <row>
+    <bookID>90</bookID>
+    <title>Simply Beautiful Beaded Jewelry</title>
+    <authors>Heidi Boyd</authors>
+    <average_rating>3.77</average_rating>
+    <isbn>1581807740</isbn>
+    <isbn13>9.78158E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>128</num_pages>
+    <ratings_count>62</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+    <publication_date>3/14/2006</publication_date>
+    <publisher>North Light Books</publisher>
+  </row>
+  <row>
+    <bookID>91</bookID>
+    <title>Always Enough: God&apos;s Miraculous Provision Among the Poorest Children on Earth</title>
+    <authors>Heidi Baker/Rolland Baker</authors>
+    <average_rating>4.46</average_rating>
+    <isbn>800793617</isbn>
+    <isbn13>9.7808E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>192</num_pages>
+    <ratings_count>860</ratings_count>
+    <text_reviews_count>53</text_reviews_count>
+    <publication_date>9/1/2003</publication_date>
+    <publisher>Chosen Books</publisher>
+  </row>
+  <row>
+    <bookID>92</bookID>
+    <title>Mapping the Big Picture: Integrating Curriculum &amp; Assessment K-12</title>
+    <authors>Heidi Hayes Jacobs</authors>
+    <average_rating>3.68</average_rating>
+    <isbn>871202867</isbn>
+    <isbn13>9.78087E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>108</num_pages>
+    <ratings_count>77</ratings_count>
+    <text_reviews_count>2</text_reviews_count>
+    <publication_date>1/28/1997</publication_date>
+    <publisher>Association for Supervision &amp; Curriculum Development</publisher>
+  </row>
+  <row>
+    <bookID>93</bookID>
+    <title>Heidi (Heidi  #1-2)</title>
+    <authors>Johanna Spyri/Beverly Cleary/Angelo  Rinaldi</authors>
+    <average_rating>3.99</average_rating>
+    <isbn>753454947</isbn>
+    <isbn13>9.78075E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>352</num_pages>
+    <ratings_count>153317</ratings_count>
+    <text_reviews_count>2257</text_reviews_count>
+    <publication_date>11/15/2002</publication_date>
+    <publisher>Kingfisher</publisher>
+  </row>
+  <row>
+    <bookID>94</bookID>
+    <title>Getting Results with Curriculum Mapping</title>
+    <authors>Heidi Hayes Jacobs</authors>
+    <average_rating>3.25</average_rating>
+    <isbn>871209993</isbn>
+    <isbn13>9.78087E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>192</num_pages>
+    <ratings_count>55</ratings_count>
+    <text_reviews_count>5</text_reviews_count>
+    <publication_date>11/15/2004</publication_date>
+    <publisher>ASCD</publisher>
+  </row>
+  <row>
+    <bookID>96</bookID>
+    <title>There&apos;s Always Enough: The Miraculous Move of God in Mozambique</title>
+    <authors>Rolland Baker/Heidi Baker</authors>
+    <average_rating>4.46</average_rating>
+    <isbn>1852402873</isbn>
+    <isbn13>9.78185E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>192</num_pages>
+    <ratings_count>34</ratings_count>
+    <text_reviews_count>6</text_reviews_count>
+    <publication_date>4/28/2003</publication_date>
+    <publisher>Sovereign World</publisher>
+  </row>
+  <row>
+    <bookID>98</bookID>
+    <title>What to Expect the First Year (What to Expect)</title>
+    <authors>Heidi Murkoff/Sharon Mazel/Arlene Eisenberg/Sandee Hathaway/Mark D. Widome</authors>
+    <average_rating>3.89</average_rating>
+    <isbn>761129588</isbn>
+    <isbn13>9.78076E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>832</num_pages>
+    <ratings_count>11797</ratings_count>
+    <text_reviews_count>659</text_reviews_count>
+    <publication_date>10/16/2003</publication_date>
+    <publisher>Workman Publishing Company</publisher>
+  </row>
+  <row>
+    <bookID>99</bookID>
+    <title>The Player&apos;s Handbook: The Ultimate Guide on Dating and Relationships</title>
+    <authors>Heidi Fleiss/Libby Keatinge</authors>
+    <average_rating>3.82</average_rating>
+    <isbn>972016414</isbn>
+    <isbn13>9.78097E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>123</num_pages>
+    <ratings_count>34</ratings_count>
+    <text_reviews_count>8</text_reviews_count>
+    <publication_date>5/10/2004</publication_date>
+    <publisher>One Hour Entertainment</publisher>
+  </row>
+  <row>
+    <bookID>100</bookID>
+    <title>Simply Beautiful Beading: 53 Quick and Easy Projects</title>
+    <authors>Heidi Boyd</authors>
+    <average_rating>3.78</average_rating>
+    <isbn>1581805632</isbn>
+    <isbn13>9.78158E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>128</num_pages>
+    <ratings_count>78</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+    <publication_date>8/19/2004</publication_date>
+    <publisher>North Light Books</publisher>
+  </row>
+  <row>
+    <bookID></bookID>
+    <title>God Emperor of Dune (Dune Chronicles  #4)</title>
+    <authors>Frank Herbert</authors>
+    <average_rating>3.84</average_rating>
+    <isbn>441294677</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>423</num_pages>
+    <ratings_count>2785</ratings_count>
+    <text_reviews_count>166</text_reviews_count>
+    <publication_date>6/15/1987</publication_date>
+    <publisher>Ace Books</publisher>
+  </row>
+  <row>
+    <bookID>105</bookID>
+    <title>Chapterhouse: Dune (Dune Chronicles #6)</title>
+    <authors>Frank Herbert</authors>
+    <average_rating>3.91</average_rating>
+    <isbn>441102670</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>436</num_pages>
+    <ratings_count>38778</ratings_count>
+    <text_reviews_count>568</text_reviews_count>
+    <publication_date>7/1/1987</publication_date>
+    <publisher>Ace Books</publisher>
+  </row>
+  <row>
+    <bookID>106</bookID>
+    <title>Dune Messiah (Dune Chronicles #2)</title>
+    <authors>Frank Herbert</authors>
+    <average_rating>3.88</average_rating>
+    <isbn>441172695</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>331</num_pages>
+    <ratings_count>97494</ratings_count>
+    <text_reviews_count>2359</text_reviews_count>
+    <publication_date>7/15/1987</publication_date>
+    <publisher>Ace Books</publisher>
+  </row>
+  <row>
+    <bookID>107</bookID>
+    <title>Dreamer of Dune: The Biography of Frank Herbert</title>
+    <authors>Brian Herbert</authors>
+    <average_rating>4.01</average_rating>
+    <isbn>765306476</isbn>
+    <isbn13>9.78077E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>592</num_pages>
+    <ratings_count>784</ratings_count>
+    <text_reviews_count>21</text_reviews_count>
+    <publication_date>7/1/2004</publication_date>
+    <publisher>Tor Books</publisher>
+  </row>
+  <row>
+    <bookID>109</bookID>
+    <title>Heretics of Dune (Dune Chronicles  #5)</title>
+    <authors>Frank Herbert</authors>
+    <average_rating>3.86</average_rating>
+    <isbn>399128980</isbn>
+    <isbn13>9.7804E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>480</num_pages>
+    <ratings_count>272</ratings_count>
+    <text_reviews_count>20</text_reviews_count>
+    <publication_date>4/16/1984</publication_date>
+    <publisher>Putnam</publisher>
+  </row>
+  <row>
+    <bookID>110</bookID>
+    <title>The Road to Dune</title>
+    <authors>Frank Herbert/Brian Herbert/Kevin J. Anderson</authors>
+    <average_rating>3.88</average_rating>
+    <isbn>765353709</isbn>
+    <isbn13>9.78077E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>426</num_pages>
+    <ratings_count>4789</ratings_count>
+    <text_reviews_count>83</text_reviews_count>
+    <publication_date>8/29/2006</publication_date>
+    <publisher>Tor Science Fiction</publisher>
+  </row>
+  <row>
+    <bookID>117</bookID>
+    <title>Heretics of Dune (Dune Chronicles #5)</title>
+    <authors>Frank Herbert</authors>
+    <average_rating>3.86</average_rating>
+    <isbn>441328008</isbn>
+    <isbn13>9.78044E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>471</num_pages>
+    <ratings_count>45388</ratings_count>
+    <text_reviews_count>644</text_reviews_count>
+    <publication_date>8/15/1987</publication_date>
+    <publisher>Ace Books</publisher>
+  </row>
+  <row>
+    <bookID>119</bookID>
+    <title>The Lord of the Rings: The Art of the Fellowship of the Ring</title>
+    <authors>Gary Russell</authors>
+    <average_rating>4.59</average_rating>
+    <isbn>618212906</isbn>
+    <isbn13>9.78062E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>192</num_pages>
+    <ratings_count>26153</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+    <publication_date>6/12/2002</publication_date>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+  </row>
+  <row>
+    <bookID>122</bookID>
+    <title>The Power of One (The Power of One  #1)</title>
+    <authors>Bryce Courtenay</authors>
+    <average_rating>4.35</average_rating>
+    <isbn>034541005X</isbn>
+    <isbn13>9.78035E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>544</num_pages>
+    <ratings_count>69167</ratings_count>
+    <text_reviews_count>4551</text_reviews_count>
+    <publication_date>9/29/1996</publication_date>
+    <publisher>Ballantine Books</publisher>
+  </row>
+  <row>
+    <bookID>123</bookID>
+    <title>The Power of One (The Power of One  #1)</title>
+    <authors>Bryce Courtenay</authors>
+    <average_rating>4.35</average_rating>
+    <isbn>385732546</isbn>
+    <isbn13>9.78039E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>291</num_pages>
+    <ratings_count>45</ratings_count>
+    <text_reviews_count>13</text_reviews_count>
+    <publication_date>9/13/2005</publication_date>
+    <publisher>Delacorte Books for Young Readers</publisher>
+  </row>
+  <row>
+    <bookID>129</bookID>
+    <title>The Power of One: One Person  One Rule  One Month</title>
+    <authors>John C. Maxwell/Stephen R. Graves/Thomas G. Addington</authors>
+    <average_rating>4.28</average_rating>
+    <isbn>785260056</isbn>
+    <isbn13>9.78079E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>256</num_pages>
+    <ratings_count>16</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+    <publication_date>11/1/2004</publication_date>
+    <publisher>Thomas Nelson</publisher>
+  </row>
+  <row>
+    <bookID>130</bookID>
+    <title>Power of an Hour: Business and Life Mastery in One Hour a Week</title>
+    <authors>Dave Lakhani</authors>
+    <average_rating>3.34</average_rating>
+    <isbn>471780936</isbn>
+    <isbn13>9.78047E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>205</num_pages>
+    <ratings_count>174</ratings_count>
+    <text_reviews_count>16</text_reviews_count>
+    <publication_date>5/19/2006</publication_date>
+    <publisher>Wiley</publisher>
+  </row>
+  <row>
+    <bookID>131</bookID>
+    <title>The Power of One: The Solo Play for Playwrights  Actors  and Directors</title>
+    <authors>Louis E. Catron</authors>
+    <average_rating>3.67</average_rating>
+    <isbn>325001537</isbn>
+    <isbn13>9.78033E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>240</num_pages>
+    <ratings_count>10</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+    <publication_date>2/7/2000</publication_date>
+    <publisher>Heinemann Drama</publisher>
+  </row>
+  <row>
+    <bookID>132</bookID>
+    <title>How to Buy  Sell &amp; Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days</title>
+    <authors>Adam Ginsberg</authors>
+    <average_rating>3.48</average_rating>
+    <isbn>006076287X</isbn>
+    <isbn13>9.78006E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>336</num_pages>
+    <ratings_count>76</ratings_count>
+    <text_reviews_count>9</text_reviews_count>
+    <publication_date>5/3/2005</publication_date>
+    <publisher>William Morrow Paperbacks</publisher>
+  </row>
+  <row>
+    <bookID>133</bookID>
+    <title>eBay for Dummies</title>
+    <authors>Marsha Collier</authors>
+    <average_rating>3.5</average_rating>
+    <isbn>470045299</isbn>
+    <isbn13>9.78047E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>386</num_pages>
+    <ratings_count>111</ratings_count>
+    <text_reviews_count>9</text_reviews_count>
+    <publication_date>10/30/2006</publication_date>
+    <publisher>Wiley</publisher>
+  </row>
+  <row>
+    <bookID>135</bookID>
+    <title>What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond</title>
+    <authors>Chris Malta/Lisa Suttora</authors>
+    <average_rating>3.62</average_rating>
+    <isbn>72262788</isbn>
+    <isbn13>9.78007E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>260</num_pages>
+    <ratings_count>24</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+    <publication_date>1/24/2006</publication_date>
+    <publisher>McGraw-Hill</publisher>
+  </row>
+  <row>
+    <bookID>137</bookID>
+    <title>Starting an eBay Business for Dummies</title>
+    <authors>Marsha Collier</authors>
+    <average_rating>3.55</average_rating>
+    <isbn>764569244</isbn>
+    <isbn13>9.78076E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>384</num_pages>
+    <ratings_count>55</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+    <publication_date>9/17/2004</publication_date>
+    <publisher>Wiley</publisher>
+  </row>
+  <row>
+    <bookID>138</bookID>
+    <title>eBay: Top 100 Simplified Tips &amp; Tricks</title>
+    <authors>Julia Wilkinson</authors>
+    <average_rating>4.27</average_rating>
+    <isbn>471933821</isbn>
+    <isbn13>9.78047E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>260</num_pages>
+    <ratings_count>9</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+    <publication_date>6/6/2006</publication_date>
+    <publisher>Wiley</publisher>
+  </row>
+  <row>
+    <bookID>139</bookID>
+    <title>ebay Timesaving Techniques for Dummies</title>
+    <authors>Marsha Collier</authors>
+    <average_rating>3.39</average_rating>
+    <isbn>764559915</isbn>
+    <isbn13>9.78076E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>391</num_pages>
+    <ratings_count>22</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+    <publication_date>5/31/2004</publication_date>
+    <publisher>Wiley</publisher>
+  </row>
+  <row>
+    <bookID>140</bookID>
+    <title>eBay Business All-in-One Desk Reference for Dummies</title>
+    <authors>Marsha Collier</authors>
+    <average_rating>3.89</average_rating>
+    <isbn>764584383</isbn>
+    <isbn13>9.78076E+12</isbn13>
+    <language_code>en-US</language_code>
+    <num_pages>864</num_pages>
+    <ratings_count>17</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+    <publication_date>4/25/2005</publication_date>
+    <publisher>Wiley</publisher>
+  </row>
+  <row>
+    <bookID>141</bookID>
+    <title>Ruby Cookbook</title>
+    <authors>Lucas Carlson/Leonard Richardson</authors>
+    <average_rating>3.84</average_rating>
+    <isbn>596523696</isbn>
+    <isbn13>9.7806E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>873</num_pages>
+    <ratings_count>166</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+    <publication_date>7/29/2006</publication_date>
+    <publisher>O&apos;Reilly Media</publisher>
+  </row>
+  <row>
+    <bookID>142</bookID>
+    <title>Ruby Ann&apos;s Down Home Trailer Park Cookbook</title>
+    <authors>Ruby Ann Boxcar</authors>
+    <average_rating>4.12</average_rating>
+    <isbn>806523492</isbn>
+    <isbn13>9.78081E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>240</num_pages>
+    <ratings_count>50</ratings_count>
+    <text_reviews_count>5</text_reviews_count>
+    <publication_date>5/3/2005</publication_date>
+    <publisher>Citadel</publisher>
+  </row>
+  <row>
+    <bookID>144</bookID>
+    <title>Ruby Ann&apos;s Down Home Trailer Park BBQin&apos; Cookbook</title>
+    <authors>Ruby Ann Boxcar</authors>
+    <average_rating>4.08</average_rating>
+    <isbn>806525363</isbn>
+    <isbn13>9.78081E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>206</num_pages>
+    <ratings_count>13</ratings_count>
+    <text_reviews_count>2</text_reviews_count>
+    <publication_date>5/3/2005</publication_date>
+    <publisher>Citadel</publisher>
+  </row>
+  <row>
+    <bookID>147</bookID>
+    <title>Rails Cookbook: Recipes for Rapid Web Development with Ruby</title>
+    <authors>Rob Orsini</authors>
+    <average_rating>3.48</average_rating>
+    <isbn>596527314</isbn>
+    <isbn13>9.7806E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>514</num_pages>
+    <ratings_count>64</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+    <publication_date>1/1/2007</publication_date>
+    <publisher>O&apos;Reilly Media</publisher>
+  </row>
+  <row>
+    <bookID>151</bookID>
+    <title>Anna Karenina</title>
+    <authors>Leo Tolstoy/Richard Pevear/Larissa Volokhonsky</authors>
+    <average_rating>4.05</average_rating>
+    <isbn>143035002</isbn>
+    <isbn13>9.78014E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>838</num_pages>
+    <ratings_count>16643</ratings_count>
+    <text_reviews_count>1851</text_reviews_count>
+    <publication_date>5/31/2004</publication_date>
+    <publisher>Penguin Classics</publisher>
+  </row>
+  <row>
+    <bookID>152</bookID>
+    <title>Anna Karenina</title>
+    <authors>Leo Tolstoy/David Magarshack/Priscilla Meyer</authors>
+    <average_rating>4.05</average_rating>
+    <isbn>451528611</isbn>
+    <isbn13>9.78045E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>960</num_pages>
+    <ratings_count>109420</ratings_count>
+    <text_reviews_count>5696</text_reviews_count>
+    <publication_date>11/5/2002</publication_date>
+    <publisher>Signet</publisher>
+  </row>
+  <row>
+    <bookID>153</bookID>
+    <title>Anna Karenina</title>
+    <authors>Leo Tolstoy/Richard Pevear/Larissa Volokhonsky/John Bayley</authors>
+    <average_rating>4.05</average_rating>
+    <isbn>140449175</isbn>
+    <isbn13>9.78014E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>837</num_pages>
+    <ratings_count>2904</ratings_count>
+    <text_reviews_count>309</text_reviews_count>
+    <publication_date>1/30/2003</publication_date>
+    <publisher>Penguin Books</publisher>
+  </row>
+  <row>
+    <bookID>154</bookID>
+    <title>CliffsNotes on Tolstoy&apos;s Anna Karenina</title>
+    <authors>Marianne Sturman/Leo Tolstoy</authors>
+    <average_rating>3.85</average_rating>
+    <isbn>822001837</isbn>
+    <isbn13>9.78082E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>80</num_pages>
+    <ratings_count>16</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+    <publication_date>11/26/1965</publication_date>
+    <publisher>Cliffs Notes</publisher>
+  </row>
+  <row>
+    <bookID>155</bookID>
+    <title>Anna Karenina</title>
+    <authors>Leo Tolstoy/Amy Mandelker/Constance Garnett</authors>
+    <average_rating>4.05</average_rating>
+    <isbn>1593080271</isbn>
+    <isbn13>9.78159E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>803</num_pages>
+    <ratings_count>9564</ratings_count>
+    <text_reviews_count>726</text_reviews_count>
+    <publication_date>7/1/2003</publication_date>
+    <publisher>Barnes &amp; Noble Classics</publisher>
+  </row>
+  <row>
+    <bookID>156</bookID>
+    <title>Anna Karenina</title>
+    <authors>Leo Tolstoy/Louise Maude/Aylmer Maude</authors>
+    <average_rating>4.05</average_rating>
+    <isbn>486437965</isbn>
+    <isbn13>9.78049E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>752</num_pages>
+    <ratings_count>474</ratings_count>
+    <text_reviews_count>72</text_reviews_count>
+    <publication_date>11/23/2004</publication_date>
+    <publisher>Dover Publications</publisher>
+  </row>
+  <row>
+    <bookID>157</bookID>
+    <title>Anna Karenina</title>
+    <authors>Leo Tolstoy/Constance Garnett/Amy Mandelker</authors>
+    <average_rating>4.05</average_rating>
+    <isbn>1593081774</isbn>
+    <isbn13>9.78159E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>803</num_pages>
+    <ratings_count>303</ratings_count>
+    <text_reviews_count>48</text_reviews_count>
+    <publication_date>8/26/2004</publication_date>
+    <publisher>Barnes &amp; Noble</publisher>
+  </row>
+  <row>
+    <bookID>159</bookID>
+    <title>Dinner with Anna Karenina</title>
+    <authors>Gloria Goldreich</authors>
+    <average_rating>2.99</average_rating>
+    <isbn>778322270</isbn>
+    <isbn13>9.78078E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>360</num_pages>
+    <ratings_count>411</ratings_count>
+    <text_reviews_count>65</text_reviews_count>
+    <publication_date>1/28/2006</publication_date>
+    <publisher>Mira Books</publisher>
+  </row>
+  <row>
+    <bookID>160</bookID>
+    <title>Tolstoy: Anna Karenina</title>
+    <authors>Anthony Thorlby</authors>
+    <average_rating>4.19</average_rating>
+    <isbn>521313252</isbn>
+    <isbn13>9.78052E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>128</num_pages>
+    <ratings_count>1204</ratings_count>
+    <text_reviews_count>33</text_reviews_count>
+    <publication_date>11/26/1987</publication_date>
+    <publisher>Cambridge University Press</publisher>
+  </row>
+  <row>
+    <bookID>162</bookID>
+    <title>Untouchable</title>
+    <authors>Mulk Raj Anand/E.M. Forster</authors>
+    <average_rating>3.71</average_rating>
+    <isbn>140183957</isbn>
+    <isbn13>9.78014E+12</isbn13>
+    <language_code>eng</language_code>
+    <num_pages>160</num_pages>
+    <ratings_count>3429</ratings_count>
+    <text_reviews_count>279</text_reviews_count>
+    <publication_date>7/3/1990</publication_date>
+    <publisher>Penguin Books</publisher>
+  </row>
+</root>
